@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 🙏
 
-<!--
-**sharmashashi/sharmashashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a flutter developer from Nepal. 🇳🇵🇳🇵🇳🇵
 
-Here are some ideas to get you started:
+💻 You can find some useful projects here. Viewing logic in those project might help you on your flutter projects so please feel free to ask any questions about them. 😊😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love to help you in flutter projects.
+
+sharmashashi940@gmail.com
+
+[LinkedIn](https://np.linkedin.com/in/shashi-sharma-6a5463ab)
+
+
